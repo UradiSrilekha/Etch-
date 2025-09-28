@@ -1,0 +1,21 @@
+#display{
+    margin: 20px auto;
+    padding: 2% auto;
+    width: fit-content;
+}
+
+.row{
+    color: blue;
+    height: 20;
+    display: flex;
+    width: 20;
+}
+.column{
+    border: 2px solid blue;
+    height: 20px;
+    width: 40px;
+}
+body{
+    text-align: center;
+    align-content: center;
+}
